@@ -24,7 +24,7 @@ end
 
 def remove_element_from_start_of_array(array)
   foods=["tacos","burritos"]
-  tacos_foods=food.shift
+  tacos_foods=foods.shift
 end
 
 def retrieve_element_from_index(array, index_number)
